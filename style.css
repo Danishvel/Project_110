@@ -1,0 +1,23 @@
+body{
+    background-color: lightblue;
+}
+#header_div{
+    background-color: mediumblue;
+    color: mintcream;
+}
+
+.test1{
+    margin-top: 20px;
+    margin-left: 20px;
+    background-color: orchid;
+    border-radius: 10px;
+}
+
+.test1 lable{
+    font-size: larger;
+}
+
+#output{
+    background-color: lightgreen;
+    border-radius: 20px;
+}
