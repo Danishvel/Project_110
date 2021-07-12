@@ -6,18 +6,28 @@ body{
     color: mintcream;
 }
 
-.test1{
+.test{
     margin-top: 20px;
-    margin-left: 20px;
+    margin-left: 350px;
     background-color: orchid;
     border-radius: 10px;
+    box-shadow: 5px 5px 15px red;
 }
 
-.test1 lable{
+.test lable{
     font-size: larger;
 }
 
 #output{
-    background-color: lightgreen;
+    background-color:lightgreen;
     border-radius: 20px;
+    box-shadow: 5px 5px 15px lightgreen;
+}
+
+#icon{
+    width: 70;
+}
+
+#img{
+    height: 220px;
 }
